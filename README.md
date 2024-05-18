@@ -1,6 +1,6 @@
 ### Olá! Sou o **_Cleiton Saores_**. 👋
 
-#### Estou cursando **_Ciência de Dados e Ciências Econômicas_** e apaixonada por **_Data Science_** voltado para o mercado financeiro.  📈
+#### Estou cursando **_Ciência de Dados e Ciências Econômicas_** e apaixonado por **_Data Science_** voltado para o mercado financeiro.  📈
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cleitongs&show_icons=true&theme=dark)
